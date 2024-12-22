@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Graphik,sans-serif";
+}
+.container{
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgb(35, 32, 29);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-header{
+  font-family: 'Graphik, sans-serif';
+  text-transform: uppercase;
+  font-size: 80px;
+  color: rgb(178, 174, 173);
+}
